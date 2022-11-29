@@ -30,17 +30,20 @@ To see the power of cloud computing for small business, look no further than the
 Here are six other benefits of cloud computing for small business
 > blockquote
 
-1. Reduce IT costs by not having to maintain legacy infrastructure. One of the most attractive benefits of cloud computing is the savings associated with not maintaining hardware and networking equipment. Additionally, by not having to rely on a dedicated onsite IT team to create and deploy apps, SMEs can develop their own affordable solutions on an as-needed basis.
+- Reduce IT costs by not having to maintain legacy infrastructure. One of the most attractive benefits of cloud computing is the savings associated with not maintaining hardware and networking equipment. Additionally, by not having to rely on a dedicated onsite IT team to create and deploy apps, SMEs can develop their own affordable solutions on an as-needed basis.
 
-2. Low initial investment, providing SMEs with more liquidity, flexibility and cash flow. Setting up operations in the cloud requires a smaller initial investment, enabling small businesses to be more flexible with their budgets. Moreover, SMEs won’t have to pay for software that they aren’t using. And as more employees shift to remote, cloud-based working, SMEs can reduce the costs of office space and utilities.
+- Low initial investment, providing SMEs with more liquidity, flexibility and cash flow. Setting up operations in the cloud requires a smaller initial investment, enabling small businesses to be more flexible with their budgets. Moreover, SMEs won’t have to pay for software that they aren’t using. And as more employees shift to remote, cloud-based working, SMEs can reduce the costs of office space and utilities.
 
-3. Disaster-proof your data. Maintaining business continuity in a crisis is an essential consideration for small businesses. By keeping their businesses operations in the cloud, SMEs can disaster-proof their valuable data and safeguard it from hazards, including potential environmental and cyber threats.
+- Disaster-proof your data. Maintaining business continuity in a crisis is an essential consideration for small businesses. By keeping their businesses operations in the cloud, SMEs can disaster-proof their valuable data and safeguard it from hazards, including potential environmental and cyber threats.
 
-4. Break silos and encourage collaboration. We’ve seen a sea change in the way SMEs leverage their talent. While it was once standard to keep workers siloed by expertise, SMEs are now freeing them to work across functions. The cloud enables this cross-functional workflow, empowering teams to collaborate with real-time information—dreaming of connecting sales and service? Cloud computing makes it possible.
+- Break silos and encourage collaboration. We’ve seen a sea change in the way SMEs leverage their talent. While it was once standard to keep workers siloed by expertise, SMEs are now freeing them to work across functions. The cloud enables this cross-functional workflow, empowering teams to collaborate with real-time information—dreaming of connecting sales and service? Cloud computing makes it possible.
 
-5. Leverage real-time information for better business intelligence. To get the most out of their data, SMEs need to turn it into actionable information. And by keeping all their data in a central location – the cloud – SMEs can eliminate rogue, siloed and outdated data, ensuring that their teams are working with a trustworthy source. Creating a more data-driven culture starts in the cloud. 
+- Leverage real-time information for better business intelligence. To get the most out of their data, SMEs need to turn it into actionable information. And by keeping all their data in a central location – the cloud – SMEs can eliminate rogue, siloed and outdated data, ensuring that their teams are working with a trustworthy source. Creating a more data-driven culture starts in the cloud. 
 
-6. Auto-updates will keep SMEs from falling behind. Any SaaS, PaaS or IaaS package will include automatic updates, so small businesses don’t have to worry about security vulnerabilities, outdated technology or synching issues. This can result in significant savings. And as technology further develops, incremental updates will help SMEs keep up with the times without a steep learning curve. (*Louise Donnery, MAR 2022*)
+- Auto-updates will keep SMEs from falling behind. Any SaaS, PaaS or IaaS package will include automatic updates, so small businesses don’t have to worry about security vulnerabilities, outdated technology or synching issues. This can result in significant savings. And as technology further develops, incremental updates will help SMEs keep up with the times without a steep learning curve. (*Louise Donnery, MAR 2022*)
+
+## Current IT Setup
+
 
 ## Recommendations 
 
