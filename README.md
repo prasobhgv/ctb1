@@ -1,42 +1,29 @@
-# Docker Getting Started Tutorial
 
-This tutorial has been written with the intent of helping folks get up and running
-with containers and is designed to work with Docker Desktop. While not going too much 
-into depth, it covers the following topics:
+# CLOUD STRATEGY FOR SMALL/ MEDIUM BUSINESSES
 
-- Running your first container
-- Building containers
-- Learning what containers are running and removing them
-- Using volumes to persist data
-- Using bind mounts to support development
-- Using container networking to support multi-container applications
-- Using Docker Compose to simplify the definition and sharing of applications
-- Using image layer caching to speed up builds and reduce push/pull size
-- Using multi-stage builds to separate build-time and runtime dependencies
+## **CA_One B9MG119** - *Cloud Technologies for Business CA_One Documentation.*
 
-## Getting Started
 
-If you wish to run the tutorial, you can use the following command after installing Docker Desktop:
+> blockquote
+  
+- SUBMITTED BY : *PRASOBH G V*
+- Word Count   : 
 
-```bash
-docker run -d -p 80:80 docker/getting-started
-```
+`code`
 
-Once it has started, you can open your browser to [http://localhost](http://localhost).
+-----------------------------------------------
 
-## Development
+Link [Cloud Computing For Small and Medium Businesses](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6470904)
 
-This project has a `docker-compose.yml` file, which will start the mkdocs application on your
-local machine and help you see changes instantly.
+<img width="150" height="150" alt="CLOUD" src="https://www.eginnovations.com/blog/wp-content/uploads/2021/09/Cloud-Computing.jpg">
 
-```bash
-docker-compose up
-```
+## Introduction
+With cloud computing, the world is literally at our fingertips! The emergence
+of cloud computing can elevate the competitiveness of businesses despite its
+potential to reduce the computing cost, accelerate the business operations,
+and optimize time to market (Abolfazli, Sanaei, Tabassi, Rosen, Gani, &
+Khan, 2015).
+## Recommendations
 
-## Contributing
+## References
 
-If you find typos or other issues with the tutorial, feel free to create a PR and suggest fixes!
-
-If you have ideas on how to make the tutorial better or new content, please open an issue first before working on your idea. While we love input, we want to keep the tutorial  scoped to newcomers.
-As such, we may reject ideas for more advanced requests and don't want you to lose any work you might
-have done. So, ask first and we'll gladly hear your thoughts!
