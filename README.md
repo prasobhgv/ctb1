@@ -15,7 +15,7 @@
 
 Link [Cloud Computing For Small and Medium Businesses](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6470904)
 
-<img width="150" height="150" alt="CLOUD" src="https://www.eginnovations.com/blog/wp-content/uploads/2021/09/Cloud-Computing.jpg">
+<img width="200" height="200" alt="CLOUD" src="https://www.eginnovations.com/blog/wp-content/uploads/2021/09/Cloud-Computing.jpg">
 
 ## Introduction
 With cloud computing, the world is literally at our fingertips! The emergence
