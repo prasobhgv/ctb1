@@ -45,4 +45,4 @@ Auto-updates will keep SMEs from falling behind. Any SaaS, PaaS or IaaS package 
 ## Justifications
 
 ## References
-
+Link [Cloud Computing for Small Business: A Game Changer](https://www.salesforce.com/eu/blog/2022/03/cloud-computing-for-small-business.html)
