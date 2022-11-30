@@ -4,12 +4,7 @@
 ## **CA_One B9MG119** - *Cloud Technologies for Business CA_One Documentation.*
 
 
-> blockquote
-  
-- SUBMITTED BY : *PRASOBH G V*
-- Word Count   : 
-
-`code`
+- SUBMITTED BY : PRASOBH G V
 
 -----------------------------------------------
 
