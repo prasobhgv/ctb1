@@ -22,7 +22,9 @@ than those that relied on physical datastores and legacy infrastructure. Cloud c
 <p align="justify">
 
 Many organizations are moving to cloud based deployments from on-premise deployments due to various reasons. Top reasons for being moved into cloud deployments are;
+</p>
 > blockquote
+<p align="justify">
 
 -No major capital investment
 -Pay as you go like plans give flexible maintenance cost options.
@@ -52,8 +54,9 @@ VPK IT infrastucture runs on a hybrid model. They have their IT environment cons
 As the first step to the cloud environment, they decided to purchase Azure Premium subscription and opt for Microsoft 365, which is a  cloud based email solution. This helped them to architect plans to migrate the required application/service clusters to the Azure cloud. The Office 365 subscription replaced their existing Exchange infrastructure and it also helped to get newer and advanced versions of the Microsoft Office products with licenses and access to other services. However, there are many other structures which can still be considered to be migrated to cloud. Some of the key areas are described below:
 
 **The SharePoint Service:** The collaboration system that uses workflow application is hosted on an on-premise server with limited storage capacity and computing power. The Microsoft support for Sharepoint Server 2013, which serves the purpose for VPK,  is ending soon as per the information below.
-
+</p>
 > blockquote
+<p align="justify">
 
 "Microsoft is ending support for certain SharePoint On-Premise versions, including SharePoint 2013. Users with an existing on-premises SharePoint 2013 intranet should make plans to migrate over to SharePoint Online before the end of life (EOL) date of April 11, 2023. By 2026, SharePoint 2019 and 2019 will also be obsolete" (https://powell-software.com/resources/blog/sharepoint-online-vs-on-premise/)
 
@@ -68,8 +71,8 @@ The applications used for processing the orders are hosted on-premise on Windows
 </p>
 
 ## Justifications
-<p align="justify">
 >blockquote
+<p align="justify">
 "The Covid-19 pandemic exposed the limitations of on-premise software. As many people were forced to work from home during the pandemic, there was a quick realization that on-premise software may not be the best option moving forward. On-premise software simply refers to software run on computers at the location of the person or organization using the software.
 
 When compared to things like the cloud or server farms, on-premise software is greatly limited. So, the problem that organizations commonly faced at the height of the pandemic was an inability to access information remotely."(https://powell-software.com/resources/blog/sharepoint-online-vs-on-premise/)
