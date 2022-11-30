@@ -20,12 +20,9 @@ Link [Cloud Computing For Small and Medium Businesses](https://ieeexplore.ieee.o
 ## Introduction
 With cloud computing, the world is literally at our fingertips! The emergence of cloud computing can elevate the competitiveness
 of businesses despite its potential to reduce the computing cost, accelerate the business operations,and optimize time to market
-(Abolfazli, Sanaei, Tabassi, Rosen, Gani, &Khan, 2015).
-
-#### The benefits of cloud computing for small business:
-Look at cloud computing for small businesses as the great enabler. The flexibility it provides means that workers now have multitudes of data at their fingertips. Those dusty racks of servers that used to populate entire floors of office buildings have been replaced; the new cloud-based office fits in your pocket.
-
-To see the power of cloud computing for small business, look no further than the COVID-19 pandemic. SMEs that operated in the cloud were better able to pivot to remote working and new business models than those that relied on physical datastores and legacy infrastructure. Cloud computing provided these teams with the tools they needed to keep operating in the face of lockdown measures, and in many cases, it helped them increase productivity.  
+(Abolfazli, Sanaei, Tabassi, Rosen, Gani, &Khan, 2015). To see the power of cloud computing for small business, look no further 
+than the COVID-19 pandemic. SMEs that operated in the cloud were better able to pivot to remote working and new business models 
+than those that relied on physical datastores and legacy infrastructure. Cloud computing provided these teams with the tools they needed to keep operating in the face of lockdown measures, and in many cases, it helped them increase productivity.  
 
 Here are six other benefits of cloud computing for small business
 > blockquote
@@ -50,4 +47,4 @@ Here are six other benefits of cloud computing for small business
 ## Justifications
 
 ## References
-Link [Cloud Computing for Small Business: A Game Changer](https://www.salesforce.com/eu/blog/2022/03/cloud-computing-for-small-business.html)
+*Cloud Computing for Small Business*: A Game Changer (*March 2, 2022*). Available at: https://www.salesforce.com/eu/blog/2022/03/cloud-computing-for-small-business.html
