@@ -10,7 +10,7 @@
 
 
 ## Introduction
-
+<p align="justify/left/right/center">
 With cloud computing, the world is literally at our fingertips! The emergence of cloud computing can elevate the competitiveness
 of businesses despite its potential to reduce the computing cost, accelerate the business operations,and optimize time to market
 (Abolfazli, Sanaei, Tabassi, Rosen, Gani, &Khan, 2015). The power of cloud computing for small business can be seen from the the COVID-19 pandemic period. SMEs that operated in the cloud were better able to pivot to remote working and new business models 
@@ -74,4 +74,4 @@ https://medium.com/@jagathsisira/on-premise-cloud-or-hybrid-5708f5e1fd1a
 https://www.salesforce.com/eu/blog/2022/03/cloud-computing-for-small-business.html
 
 https://www.zippia.com/advice/cloud-adoption-statistics/
-
+</p>
