@@ -16,6 +16,8 @@ of businesses despite its potential to reduce the computing cost, accelerate the
 (Abolfazli, Sanaei, Tabassi, Rosen, Gani, &Khan, 2015). The power of cloud computing for small business can be seen from the the COVID-19 pandemic period. SMEs that operated in the cloud were better able to pivot to remote working and new business models 
 than those that relied on physical datastores and legacy infrastructure. Cloud computing provided these teams with the tools they needed to keep operating in the face of lockdown measures, and in many cases, it helped them increase productivity. Amazon is the market leader in cloud computing. Overall, the company’s service, Amazon Web Services, has a 32% market share over the competition. The other top four companies include Azure (20%), Google Cloud (9%), and Alibaba Cloud (6%). Combined, these four companies alone account for 67% of the total market share.
 
+<img width="300" height="300" alt="CLOUD" src="https://www.eginnovations.com/blog/wp-content/uploads/2021/09/Cloud-Computing.jpg"><img width="300" height="500" alt="CLOUD1" src="https://www.techtarget.com/searchcloudcomputing/definition/hybrid-IT>
+
 Many organizations are moving to cloud based deployments from on-premise deployments due to various reasons. Top reasons for being moved into cloud deployments are;
 > blockquote
 
@@ -52,12 +54,8 @@ The applications used for processing the orders are hosted on-premise on Windows
 
 1. To overcome the end of service support to the existing infrastructure for Sharepoint On-prem 2013 version and to increase the compute and storage power, it's best to opt for the Sharepoint Online Services.
 
->blockquote
-
-
-
 ## Justifications
-
+>blockquote
 "The Covid-19 pandemic exposed the limitations of on-premise software. As many people were forced to work from home during the pandemic, there was a quick realization that on-premise software may not be the best option moving forward. On-premise software simply refers to software run on computers at the location of the person or organization using the software.
 
 When compared to things like the cloud or server farms, on-premise software is greatly limited. So, the problem that organizations commonly faced at the height of the pandemic was an inability to access information remotely."(https://powell-software.com/resources/blog/sharepoint-online-vs-on-premise/)
