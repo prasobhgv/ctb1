@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <th>Module Title</th>
+    <th text-align: left>Module Title</th>
     <td>Cloud Technology for Business</td>
   </tr>
   <tr>
@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <th>Module Leader</td>
-    <td td text-align: left>Paul Laird</td>
+    <td>Paul Laird</td>
   </tr>
   <tr>
     <th>Assessment Title</th>
