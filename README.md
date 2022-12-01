@@ -1,6 +1,6 @@
 
-# <u>CLOUD STRATEGY FOR SMALL/ MEDIUM BUSINESSES</u>
-
+#                                  CLOUD STRATEGY FOR SMALL/ MEDIUM BUSINESSES
+-----------------------------------------------
 
 <table>
   <tr>
