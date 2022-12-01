@@ -23,18 +23,17 @@ than those that relied on physical datastores and legacy infrastructure. Cloud c
 
 Many organizations are moving to cloud based deployments from on-premise deployments due to various reasons. Top reasons for being moved into cloud deployments are;
 </p>
-> blockquote
 
 <ol>
-  <li>-No major capital investment</li>
-  <li>-Pay as you go like plans give flexible maintenance cost options.</li>
-  <li>-Massively set of infrastructure build options suits to individual’s needs with lot of customization.</li>
-  <li>-Online training materials provide faster on boarding of the teams and staff.</li>
-  <li>-Organization can use their staff for more productive work by handing over the infra maintenance to the cloud providers.
+  <li>No major capital investment</li>
+  <li>Pay as you go like plans give flexible maintenance cost options.</li>
+  <li>Massively set of infrastructure build options suits to individual’s needs with lot of customization.</li>
+  <li>Online training materials provide faster on boarding of the teams and staff.</li>
+  <li>Organization can use their staff for more productive work by handing over the infra maintenance to the cloud providers.
 </li>
 </ol>
 
-
+<p align="justify">
 For the purpose of analyzing various cloud solutions available for small and medium businesses, we have to understand the current IT infrastructure setup of the target enterprise and recognize the possible cloud solution replacements available. To exemplify in detail, **VPK Group** has  been considered as the target enterprise. 
 </p>
 
