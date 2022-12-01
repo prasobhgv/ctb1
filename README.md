@@ -1,16 +1,18 @@
 
-<style>
-.aligncenter {
-    text-align: center;
 # CLOUD STRATEGY FOR SMALL/ MEDIUM BUSINESSES
-}
-</style>
 
-## **CA_One B9MG119** - *Cloud Technologies for Business CA_One Documentation.*
+## CA_One B9MG119 - Cloud Technologies for Business CA_One Documentation.
 
-
-- SUBMITTED BY : PRASOBH G V
-
+<table>
+-----------------------------------------------------------------
+| Module Title		| Cloud Technology for Business		|
+| Module Code		| B9MG119				|
+| Module Leader		| Paul Laird				|
+| Assessment Title	| Cloud Strategy and sample deployment 	|
+| Assessment Number 	| CA_One				|
+| Submitted by		| PRASOBH G V				|
+-----------------------------------------------------------------
+</table>
 -----------------------------------------------
 
 
