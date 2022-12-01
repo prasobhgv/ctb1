@@ -1,5 +1,5 @@
 
-#                                  CLOUD STRATEGY FOR SMALL/ MEDIUM BUSINESSES
+# CLOUD STRATEGY FOR SMALL/ MEDIUM BUSINESSES
 -----------------------------------------------
 
 <table>
@@ -50,6 +50,45 @@ Many organizations are moving to cloud based deployments from on-premise deploym
   <li>Organization can use their staff for more productive work by handing over the infra maintenance to the cloud providers.
 </li>
 </ol>
+
+<table>
+  <tr>
+    <th>Cloud Adoption Statistics by Cloud Usage</th>
+    <th>Cloud Adoption Projections</th>
+    <th>Cloud Adoption Trends</th>
+    <th>Cloud Adoption Statistics by Top Benefits of Adoption</th>
+    <th>Cloud Adoption Statistics by Cloud Storage Services</th>
+  </tr>
+  <tr>
+   <td>The average employee uses 36 cloud-based services every day.</td>
+   <td>By 2025, there will be an estimated 175 zettabytes of stored data on the cloud.</td>
+   <td>Between 2010 and 2020, the global cloud computing and hosting market size increased by cloud 535%.</td>
+   <td>94% of businesses report significant online security improvements after adopting the cloud.</td>
+   <td>As of 2022, 60% of all corporate data is stored in the cloud.</td>
+  </tr>
+  <tr>
+   <td>The average enterprise uses 1,295 cloud services.</td>
+   <td>The cloud computing industry market is expected to grow by $287.03 billion between 2020-2025.</td>
+   <td>In 2021, public cloud services grew by 18.4% year-over-year.</td>
+   <td>80% of companies report operation improvements after adopting the cloud.</td>
+   <td>There are four companies that own 67% of the world’s cloud infrastructure.</td>
+  </tr>
+  <tr>
+   <td>87% of businesses have a hybrid cloud strategy.</td>
+   <td>By 2026, 45% of all enterprise IT budgets will be spent on the cloud.</td>
+   <td>In 2021, cloud computing spending increased by 35.3% year-over-year.</td>
+   <td>82% of small and medium businesses report reduced costs after adopting cloud tech.</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td></td>
+   <td>61% of businesses plan to optimize cloud costs in the next year.</td>
+   <td></td>
+   <td>93% of businesses identify cloud security as the #1 concern.</td>
+   <td></td>
+  </tr>
+</table>
+
 
 <p align="justify">
 For the purpose of analyzing various cloud solutions available for small and medium businesses, we have to understand the current IT infrastructure setup of the target enterprise and recognize the possible cloud solution replacements available. To exemplify in detail, VPK Group has  been considered as the target enterprise. 
