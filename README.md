@@ -4,12 +4,33 @@
 ## CA_One B9MG119 - Cloud Technologies for Business CA_One Documentation.
 
 <table>
+  <tr>
+    <th>Module Title</th>
+    <td>Cloud Technology for Business</td>
+  </tr>
+  <tr>
+   <th>Module Code</th>
+   <td>B9MG119</td>
+  </tr>
+  <tr>
+    <th>Module Leader</td>
+    <td>Paul Laird</td>
+  </tr>
+  <tr>
+    <th>Assessment Title</th>
+    <td>Cloud Strategy and sample deployment_CA_1</td>
+  </tr>
+  <tr>
+    <th>Submitted by</td>
+    <td>Prasobh G V</td>
+</table>
+
+
 -----------------------------------------------------------------
 | Module Title		| Cloud Technology for Business		|
 | Module Code		| B9MG119				|
 | Module Leader		| Paul Laird				|
-| Assessment Title	| Cloud Strategy and sample deployment 	|
-| Assessment Number 	| CA_One				|
+| Assessment Title	| Cloud Strategy and sample deployment_CA_1	|
 | Submitted by		| PRASOBH G V				|
 -----------------------------------------------------------------
 </table>
