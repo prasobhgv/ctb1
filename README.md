@@ -107,7 +107,7 @@ VPK Group is a leading packaging group that was established in Belgium in 1935. 
 VPK IT infrastucture runs on a hybrid model. They have their IT environment constructed around Windows based operating systems and the  user and resource management is controlled through Active Directory domain services. The enterprise application servers and the exchange servers are hosted on-premises. The Datacenter they rented out could not withstand anymore resource/resource upgrade requests. This led, the firm to think of adopting a cloud solution to their current problems
 </p>
 
-<Image>
+<img width="900" height="500" align="middle" alt="CLOUD1" src="https://onedrive.live.com/?cid=C071AF7A8E77E7B3&id=C071AF7A8E77E7B3%215040&parId=C071AF7A8E77E7B3%214852&o=OneUp>
 <p align="justify">
 
 As the first step to the cloud environment, they decided to purchase Azure Premium subscription and opt for Microsoft 365, which is a  cloud based email solution. This helped them to architect plans to migrate the required application/service clusters to the Azure cloud. The Office 365 subscription replaced their existing Exchange infrastructure and it also helped to get newer and advanced versions of the Microsoft Office products with licenses and access to other services. However, there are many other structures which can still be considered to be migrated to cloud. Some of the key areas are described below:
