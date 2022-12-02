@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <th text-align: left>Module Title</th>
+    <th>Module Title</th>
     <td>Cloud Technology for Business</td>
   </tr>
   <tr>
