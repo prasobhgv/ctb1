@@ -138,15 +138,15 @@ The cloud version of SharePoint offers a myriad of benefits to users, including 
 SharePoint Online comprises both web and cloud-based technologies. It eliminates high data storage costs, subscription charges, and other SharePoint on-premises deployments.
 
 The primary benefits of migrating to the SharePoint Online platform are:
-> blockquote
+</p>
+<blockquote cite="https://powell-software.com/resources/blog/sharepoint-online-vs-on-premise/">
 - The ability to integrate with Microsoft 365 applications
 - High-level security features
 - Compatibility with mobile devices, so information is accessible on the go
 - Easy external collaboration efforts with users
 - HIPPA, FIMSA, and ISO27001 compliance, among others
-- Ability to create document libraries for enhanced collaboration efforts.(https://powell-software.com/resources/blog/sharepoint-online-vs-on-premise/)
-  
-</p>
+- Ability to create document libraries for enhanced collaboration efforts.
+</blockquote>
 
 ## References
 *Cloud Computing for Small Business*: A Game Changer (*March 2, 2022*). Available at: https://www.salesforce.com/eu/blog/2022/03/cloud-computing-for-small-business.html
