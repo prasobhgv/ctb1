@@ -36,7 +36,7 @@ than those that relied on physical datastores and legacy infrastructure. Cloud c
 </p>
 
 <img width="900" height="500" align="middle" alt="CLOUD1" src="https://bnz05pap001files.storage.live.com/y4mdzp7AZfveAnS0SfQEgBs_41mZddiPP2harDQOuMQbFSKr5ef4cl9ZMGREN25krP86MoqBal3o2ia6UfBpdkSPjZa8ygIMT0LZd72gA9WEqKtKGGABEXzYMndSG4G2bKo1V_HuPXNY4CXOW7wdkmyvM1LsmiAS-N-M2etEke7PsUwrBmWcBwRxQ2yU31U-weA4A194UlzB_G9aJzHG7SfJY-LBKcOrzpldb6dK7Fu45g?encodeFailures=1&width=861&height=577" >
-
+<p align="center">*Figure 1. * Cloud Strategies</p>
 <p align="justify">
 
 Many organizations are moving to cloud based deployments from on-premise deployments due to various reasons. Top reasons for being moved into cloud deployments are;
@@ -89,6 +89,7 @@ Many organizations are moving to cloud based deployments from on-premise deploym
   </tr>
 </table>
 
+<p align="center">Table : Cloud Adoption Statistics 2022</p>
 
 <p align="justify">
 For the purpose of analyzing various cloud solutions available for small and medium businesses, we have to understand the current IT infrastructure setup of the target enterprise and recognize the possible cloud solution replacements available. To exemplify in detail, VPK Group has  been considered as the target enterprise. 
@@ -108,6 +109,8 @@ VPK IT infrastucture runs on a hybrid model. They have their IT environment cons
 </p>
 
 <img width="900" height="500" align="middle" alt="CLOUD1" src="https://bnz05pap001files.storage.live.com/y4mBHuxnApWV-XXgxmpgfqrWZ81HPwYFH4__vvAiDQBEROq-Uv8rlHxIWwEtAK0JN0colUBa_oe16UtnRJ7X__QxhXaDWxeRW8OfInwIjtlibRTLOIFI-pdPkVXyy_JB-N2LN5tzP4iO-2cIv-bb0Kp99kuFqdDEPNRmMVt9JcVva2dyBOmvOikwi-0Sgq_GKAMkBGWKpleabyH8iOM2PbYqSjr1-H5ERJiQRXegi7dLoE?encodeFailures=1&width=1024&height=527">
+
+<p align="center">*Figure 2. * Current IT Infrastructure</p>
 <p align="justify">
 
 As the first step to the cloud environment, they decided to purchase Azure Premium subscription and opt for Microsoft 365, which is a  cloud based email solution. This helped them to architect plans to migrate the required application/service clusters to the Azure cloud. The Office 365 subscription replaced their existing Exchange infrastructure and it also helped to get newer and advanced versions of the Microsoft Office products with licenses and access to other services. However, there are many other structures which can still be considered to be migrated to cloud. Some of the key areas are described below:
