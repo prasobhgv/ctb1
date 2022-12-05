@@ -37,8 +37,6 @@ than those that relied on physical datastores and legacy infrastructure. Cloud c
 
 <img align="center" width="300" height="300" alt="CLOUD" src="https://www.eginnovations.com/blog/wp-content/uploads/2021/09/Cloud-Computing.jpg">
 
-<img width="900" height="500" alt="CLOUD1" src="https://bnz05pap001files.storage.live.com/y4md9qJ-LUOvC8upjknHrzqz1dnFX6jgLrPuTYgyhcDnjOfOxe1dUx2ShzqQr5Kp9yGuaZC4R-0Z3YYMkvW4nB5S-KlUMOgkMmMKWXVTYLU3v8orewVPIda_exFX5sQ5G064fECP3QlGBNwGz0LE0tooOUnHUZny08WkgCx0ludmi7z4YKAEXqcRQ9hdEl1LJDNzs-LV1I2cYt3AsYAVaqA-keZfCDzZAwMlj4MZw--ca8?encodeFailures=1&width=908&height=609" >
-
 <p align="justify">
 
 Many organizations are moving to cloud based deployments from on-premise deployments due to various reasons. Top reasons for being moved into cloud deployments are;
