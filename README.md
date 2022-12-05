@@ -113,7 +113,7 @@ As the first step to the cloud environment, they decided to purchase Azure Premi
 **The SharePoint Service:** The collaboration system that uses workflow application is hosted on an on-premise server with limited storage capacity and computing power. The Microsoft support for Sharepoint Server 2013, which serves the purpose for VPK,  is ending soon as per the information below.
 <p align="justify">
 
-"Microsoft is ending support for certain SharePoint On-Premise versions, including SharePoint 2013. Users with an existing on-premises SharePoint 2013 intranet should make plans to migrate over to SharePoint Online before the end of life (EOL) date of April 11, 2023. By 2026, SharePoint 2019 and 2019 will also be obsolete" (https://powell-software.com/resources/blog/sharepoint-online-vs-on-premise/)
+"Microsoft is ending support for certain SharePoint On-Premise versions, including SharePoint 2013. Users with an existing on-premises SharePoint 2013 intranet should make plans to migrate over to SharePoint Online before the end of life (EOL) date of April 11, 2023. By 2026, SharePoint 2019 and 2019 will also be obsolete" (* Yvonne, 2022 *)
 
 **The Order Processing software system and it's Database:**
 The applications used for processing the orders are hosted on-premise on Windows 2012 server platform with low compute power, which absolutely slows down the accessibility and the orders gets delayed.
