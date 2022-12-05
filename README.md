@@ -150,7 +150,8 @@ Sanjay Mohapatra, Ashwini Rath, (IEEEXPLORE):Decision points for adoption Cloud 
 Yvonne Harris, (Powell-Software): Why is Sharepoint Online better than On-Premise ? (*August 23, 2022*). Available at: https://powell-software.com/resources/blog/sharepoint-online-vs-on-premise/
 
 `Code`
-<!--
+
+/*
 <table>
   <tr>
     <th>Data</th>
@@ -163,5 +164,5 @@ Yvonne Harris, (Powell-Software): Why is Sharepoint Online better than On-Premis
     <td>Data</td>
   </tr>
 </table>
--->
+*/
 Available at: https://www.w3schools.com/html/html_tables.asp
