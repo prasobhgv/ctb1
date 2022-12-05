@@ -35,7 +35,7 @@ of businesses despite its potential to reduce the computing cost, accelerate the
 than those that relied on physical datastores and legacy infrastructure. Cloud computing provided these teams with the tools they needed to keep operating in the face of lockdown measures, and in many cases, it helped them increase productivity. Amazon is the market leader in cloud computing. Overall, the company’s service, Amazon Web Services, has a 32% market share over the competition. The other top four include Azure(20%), Google Cloud(9%), and Alibaba(6%).
 </p>
 
-<img align="center" width="300" height="300" alt="CLOUD" src="https://miro.medium.com/max/1400/0*3HHL_MP6B8et5-UO">
+<img align="center" width="700" height="350" alt="CLOUD" src="https://miro.medium.com/max/1400/0*3HHL_MP6B8et5-UO">
 
 <p align="justify">
 
