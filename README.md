@@ -35,6 +35,8 @@ of businesses despite its potential to reduce the computing cost, accelerate the
 than those that relied on physical datastores and legacy infrastructure. Cloud computing provided these teams with the tools they needed to keep operating in the face of lockdown measures, and in many cases, it helped them increase productivity. Amazon is the market leader in cloud computing. Overall, the company’s service, Amazon Web Services, has a 32% market share over the competition. The other top four include Azure(20%), Google Cloud(9%), and Alibaba(6%).
 </p>
 
+<img align="center" width="300" height="300" alt="CLOUD" src="https://www.eginnovations.com/blog/wp-content/uploads/2021/09/Cloud-Computing.jpg">
+
 <img width="900" height="500" alt="CLOUD1" src="https://bnz05pap001files.storage.live.com/y4md9qJ-LUOvC8upjknHrzqz1dnFX6jgLrPuTYgyhcDnjOfOxe1dUx2ShzqQr5Kp9yGuaZC4R-0Z3YYMkvW4nB5S-KlUMOgkMmMKWXVTYLU3v8orewVPIda_exFX5sQ5G064fECP3QlGBNwGz0LE0tooOUnHUZny08WkgCx0ludmi7z4YKAEXqcRQ9hdEl1LJDNzs-LV1I2cYt3AsYAVaqA-keZfCDzZAwMlj4MZw--ca8?encodeFailures=1&width=908&height=609" >
 
 <p align="justify">
@@ -107,7 +109,7 @@ VPK Group is a leading packaging group that was established in Belgium in 1935. 
 VPK IT infrastucture runs on a hybrid model. They have their IT environment constructed around Windows based operating systems and the  user and resource management is controlled through Active Directory domain services. The enterprise application servers and the exchange servers are hosted on-premises. The Datacenter they rented out could not withstand anymore resource/resource upgrade requests. This led, the firm to think of adopting a cloud solution to their current problems
 </p>
 
-<img width="900" height="500" align="middle" alt="CLOUD1" src="https://bnz05pap001files.storage.live.com/y4mt0w96aNiL-Msa6XMTpbLFc8U4BNUZl9HPk3VxR6rTD9IxBWXf11yPs8z6_M8UUh_Aop7jqCOlitnVBdZp0-Vs49x-ZKwmoyfCJsuFM-Nmgfgk4R7t-uUt6_UqAHvaciBNAstPzjXLh1nMbsUUb9qP2EYZxSir3-00VDtlQXYTkhoio6vqkjp6oDQecBaik5OtAZhYzcEmFRfeRWn79m-6_WFKTLcVwI_0mNSwHuqOpw?encodeFailures=1&width=1024&height=527">
+<img width="900" height="400" align="middle" alt="CLOUD1" src="https://bnz05pap001files.storage.live.com/y4mt0w96aNiL-Msa6XMTpbLFc8U4BNUZl9HPk3VxR6rTD9IxBWXf11yPs8z6_M8UUh_Aop7jqCOlitnVBdZp0-Vs49x-ZKwmoyfCJsuFM-Nmgfgk4R7t-uUt6_UqAHvaciBNAstPzjXLh1nMbsUUb9qP2EYZxSir3-00VDtlQXYTkhoio6vqkjp6oDQecBaik5OtAZhYzcEmFRfeRWn79m-6_WFKTLcVwI_0mNSwHuqOpw?encodeFailures=1&width=1024&height=527">
 <p align="justify">
 
 As the first step to the cloud environment, they decided to purchase Azure Premium subscription and opt for Microsoft 365, which is a  cloud based email solution. This helped them to architect plans to migrate the required application/service clusters to the Azure cloud. The Office 365 subscription replaced their existing Exchange infrastructure and it also helped to get newer and advanced versions of the Microsoft Office products with licenses and access to other services. However, there are many other structures which can still be considered to be migrated to cloud. Some of the key areas are described below:
@@ -135,17 +137,19 @@ When compared to things like the cloud or server farms, on-premise software is g
 </p>
 
 ## References
+
 *Cloud Computing for Small Business*: A Game Changer (*March 2, 2022*). Available at: https://www.salesforce.com/eu/blog/2022/03/cloud-computing-for-small-business.html
 
-Link [Cloud Computing For Small and Medium Businesses](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6470904)
-
-<img width="300" height="300" alt="CLOUD" src="https://www.eginnovations.com/blog/wp-content/uploads/2021/09/Cloud-Computing.jpg">
-
-https://www.vpkgroup.com/-/media/Files/reports/VPK-Group-Sustainability-Report-2022.pdf
+*VPK-Group-Sustainability-Report-2022* (*June,22, 2022*). Available at: https://www.vpkgroup.com/-/media/Files/reports/VPK-Group-Sustainability-Report-2022.pdf
 
 https://medium.com/@jagathsisira/on-premise-cloud-or-hybrid-5708f5e1fd1a
 
 https://www.salesforce.com/eu/blog/2022/03/cloud-computing-for-small-business.html
 
-https://www.zippia.com/advice/cloud-adoption-statistics/
+Zippia.(Jack Flynn) "25 Amazing Cloud Adoption Statistics [2022]" Zippia.com. May. 23, 2022, https://www.zippia.com/advice/cloud-adoption-statistics/
+ https://www.zippia.com/advice/cloud-adoption-statistics/
 </p>
+
+
+
+Link [Cloud Computing For Small and Medium Businesses](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6470904)
