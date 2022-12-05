@@ -99,6 +99,7 @@ For the purpose of analyzing various cloud solutions available for small and med
 
 VPK Group is a leading packaging group that was established in Belgium in 1935. Since then, it has grown from being a local player to the current international supplier of sustainable protective packaging solutions, covering 3 market segments: **corrugated board, solid board, and tubes & corner protectors**. As a packaging group, VPK strive to provide an optimal and reliable service by paying close attention to the local markets and, at the same time, share their expertise and knowledge across countries, in order to guarantee the best solutions in line with their customers’ needs. VPK Group’s continued growth is mainly the result of its long-term vision, a sound financial structure and commitment to sustainability, both ecologically and economically. VPK team believe that sustainability not only concerns our products, but also our internal and external relationships, our management approach and our planet. The whole team consists of more than 6500 committed people spread over 70 plants in 20 countries.
 
+<img align="center" width="500" height="300" alt="CLOUD" src="https://bnz05pap001files.storage.live.com/y4mJAzvbniSjWnf7lLGjC7aXe24u9wRUf5726voZnF0YJ9T8GJuko09NC72BvnczU2OOQtRUU1nv3yAQ0uy2noP5wKMgY6AnILB_xhEa_m1IAIpaMBrVn3AYqVtSDjCxsMO3yG7oJWJQs9GR4QlDGfIP6IPg_28X09hR-hnyVa7oT2kVfY0e5w0VcuBcktKbgR64CFRavKa6XpljRbBhUsRBPQga6Wpp30L9JVVJguw66I?encodeFailures=1&width=814&height=461" >
 </p>
 
 ## Current IT Setup
