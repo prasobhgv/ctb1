@@ -32,12 +32,6 @@ With cloud computing, the world is literally at our fingertips! The emergence of
 of businesses despite its potential to reduce the computing cost, accelerate the business operations,and optimize time to market
 (Abolfazli, Sanaei, Tabassi, Rosen, Gani, &Khan, 2015). The power of cloud computing for small business can be seen from the the COVID-19 pandemic period. SMEs that operated in the cloud were better able to pivot to remote working and new business models than those that relied on physical datastores and legacy infrastructure. Cloud computing provided these teams with the tools they needed to keep operating in the face of lockdown measures, and in many cases, it helped them increase productivity. 
 
-</p>
-
-<img align="center" width="500" height="500" alt="CLOUD" src="https://www.eginnovations.com/blog/wp-content/uploads/2021/09/Cloud-Computing.jpg">
-
-<p align="justify">
-
 Amazon is the market leader in cloud computing. Overall, the company’s service, Amazon Web Services, has a 32% market share over the competition. The other top four include Azure(20%), Google Cloud(9%), and Alibaba(6%). 
 </p>
 
@@ -87,10 +81,11 @@ Many organizations are moving to cloud based deployments from on-premise deploym
   <li>Pay as you go like plans give flexible maintenance cost options.</li>
   <li>Massively set of infrastructure build options suits to individual’s needs with lot of customization.</li>
   <li>Online training materials provide faster on boarding of the teams and staff.</li>
-  <li>Organization can use their staff for more productive work by handing over the infra maintenance to the cloud providers.
-</li>
+  <li>Organization can use their staff for more productive work by handing over the infra maintenance to the cloud providers.</li>
 </ol>
 
+
+<img align="center" width="500" height="500" alt="CLOUD" src="https://www.eginnovations.com/blog/wp-content/uploads/2021/09/Cloud-Computing.jpg">
 
 <p align="justify">
 For the purpose of analyzing various cloud solutions available for small and medium businesses, we have to understand the current IT infrastructure setup of the target enterprise and recognize the possible cloud solution replacements available. To exemplify in detail, VPK Group has  been considered as the target enterprise. 
@@ -138,28 +133,31 @@ The Covid-19 pandemic exposed the limitations of on-premise software. As many pe
 SharePoint Online comprises both web and cloud-based technologies. It eliminates high data storage costs, subscription charges, and other SharePoint on-premises deployments.
 
 The primary benefits of migrating to the SharePoint Online platform are:
-
-The ability to integrate with Microsoft 365 applications
-High-level security features
-Compatibility with mobile devices, so information is accessible on the go
-Easy external collaboration efforts with users
-HIPPA, FIMSA, and ISO27001 compliance, among others
-Ability to create document libraries for enhanced collaboration efforts
 </p>
+<ol>
+  <li>The ability to integrate with Microsoft 365 applications.</li>
+  <li>High-level security features.</li>
+  <li>Compatibility with mobile devices, so information is accessible on the go.</li>
+  <li>Easy external collaboration efforts with users.</li>
+  <li>HIPAA, FIMSA, and ISO27001 compliance, among others.</li>
+  <li>Ability to create document libraries for enhanced collaboration efforts.</li>
+</ol>
 
 ## References
 
 *Cloud Computing for Small Business*: A Game Changer (*March 2, 2022*). Available at: https://www.salesforce.com/eu/blog/2022/03/cloud-computing-for-small-business.html
 
+Jack Flynn, (Zippia): "25 Amazing Cloud Adoption Statistics [2022]" Zippia.com. May. 23, 2022, https://www.zippia.com/advice/cloud-adoption-statistics/
+
 *VPK-Group-Sustainability-Report-2022* (*June,22, 2022*). Available at: https://www.vpkgroup.com/-/media/Files/reports/VPK-Group-Sustainability-Report-2022.pdf
 
-Sharepoint https://powell-software.com/resources/blog/sharepoint-online-vs-on-premise/
+Yvonne Harris, (Powell-Software): Why is Sharepoint Online better than On-Premise ? (*August 23, 2022*). Available at: https://powell-software.com/resources/blog/sharepoint-online-vs-on-premise/
 
 https://medium.com/@jagathsisira/on-premise-cloud-or-hybrid-5708f5e1fd1a
 
 https://www.salesforce.com/eu/blog/2022/03/cloud-computing-for-small-business.html
 
-Zippia.(Jack Flynn) "25 Amazing Cloud Adoption Statistics [2022]" Zippia.com. May. 23, 2022, https://www.zippia.com/advice/cloud-adoption-statistics/
+
  https://www.zippia.com/advice/cloud-adoption-statistics/
 </p>
 
