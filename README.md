@@ -102,34 +102,29 @@ VPK Group is a leading packaging group that was established in Belgium in 1935. 
 ## Current IT Setup
 <p align="justify">
 
-VPK IT infrastucture runs on a hybrid model. They have their IT environment constructed around Windows based operating systems and the  user and resource management is controlled through Active Directory domain services. The enterprise application servers and the exchange servers are hosted on-premises. The Datacenter they rented out could not withstand anymore resource/resource upgrade requests. This led, the firm to think of adopting a cloud solution to their current problems
-</p>
+VPK IT infrastucture runs on a hybrid model. They have their IT environment constructed around Windows based operating systems and the  user and resource management is controlled through Active Directory domain services. The enterprise application servers and the exchange servers are hosted on-premises. The Datacenter they rented out could not withstand anymore resource/resource upgrade requests.</p>
 
 <img width="900" height="400" align="middle" alt="CLOUD1" src="https://bnz05pap001files.storage.live.com/y4mt0w96aNiL-Msa6XMTpbLFc8U4BNUZl9HPk3VxR6rTD9IxBWXf11yPs8z6_M8UUh_Aop7jqCOlitnVBdZp0-Vs49x-ZKwmoyfCJsuFM-Nmgfgk4R7t-uUt6_UqAHvaciBNAstPzjXLh1nMbsUUb9qP2EYZxSir3-00VDtlQXYTkhoio6vqkjp6oDQecBaik5OtAZhYzcEmFRfeRWn79m-6_WFKTLcVwI_0mNSwHuqOpw?encodeFailures=1&width=1024&height=527">
+
 <p align="justify">
 
 As the first step to the cloud environment, they decided to purchase Azure Premium subscription along with Microsoft 365. This helped them to architect plans to migrate the required application/service clusters to the Azure cloud. The Office 365 subscription replaced their existing Exchange infrastructure and it also helped to get newer and advanced versions of the Microsoft Office products with licenses and access to other services. However, there are many other structures which can still be considered to be migrated to cloud. Some of the key areas are described below:
 
 **The SharePoint Service:** The collaboration system that uses workflow application is hosted on an on-premise server with limited storage capacity and computing power. The Microsoft support for Sharepoint Server 2013, which serves the purpose for VPK,  is ending soon as per the information below.
-
-"Microsoft is ending support for certain SharePoint On-Premise versions, including SharePoint 2013. Users with an existing on-premises SharePoint 2013 intranet should make plans to migrate over to SharePoint Online before the end of life (EOL) date of April 11, 2023. By 2026, SharePoint 2019 and 2019 will also be obsolete". (* Yvonne, 2022 *)
-**The Order Processing software system and it's Database:** The applications used for processing the orders are hosted on-premise on Windows 2012 server platform with low compute power, which absolutely slows down the accessibility and the orders gets delayed.
+"Microsoft is ending support for certain SharePoint On-Premise versions, including SharePoint 2013. Users with an existing on-premises SharePoint 2013 intranet should make plans to migrate over to SharePoint Online before the end of life (EOL) date of April 11, 2023. By 2026, SharePoint 2019 and 2019 will also be obsolete". (* Yvonne, 2022 *). **The Order Processing software system and it's Database:** The applications used for processing the orders are hosted on-premise on Windows 2012 server platform with low compute power, which absolutely slows down the accessibility and the orders gets delayed.
 </p>
 
 ## Recommendations 
 <p align="justify">
 
-To overcome the end of service support to the existing infrastructure for Sharepoint On-prem 2013 version and to increase the compute and storage power, it's recommended to opt for the Sharepoint Online Services.
-The Covid-19 pandemic exposed the limitations of on-premise software. As many people were forced to work from home during the pandemic, there was a quick realization that on-premise software may not be the best option moving forward. On-premise software simply refers to software run on computers at the location of the person or organization using the software. When compared to things like the cloud or server farms, on-premise software is greatly limited. So, the problem that organizations commonly faced at the height of the pandemic was an inability to access information remotely."()
+To overcome the end of service support to the existing infrastructure for Sharepoint On-prem 2013 version and to increase the compute and storage power, it's recommended to opt for the Sharepoint Online Services.The Covid-19 pandemic exposed the limitations of on-premise software. As many people were forced to work from home during the pandemic, there was a quick realization that on-premise software may not be the best option moving forward. On-premise software simply refers to software run on computers at the location of the person or organization using the software. When compared to things like the cloud or server farms, on-premise software is greatly limited. So, the problem that organizations commonly faced at the height of the pandemic was an inability to access information remotely.
 
 </p>
 
 ## Justifications
 <p align="justify">
 
-SharePoint Online comprises both web and cloud-based technologies. It eliminates high data storage costs, subscription charges, and other SharePoint on-premises deployments.
-
-The primary benefits of migrating to the SharePoint Online platform are:
+SharePoint Online comprises both web and cloud-based technologies. It eliminates high data storage costs, subscription charges, and other SharePoint on-premises deployments. The primary benefits of migrating to the SharePoint Online platform are:
 </p>
 <ol>
   <li>The ability to integrate with Microsoft 365 applications.</li>
@@ -150,6 +145,23 @@ Jagath Ariyarathne, (Medium): On-premise, Cloud or Hybrid? (*Oct 19, 2019*). Ava
 
 Sanjay Mohapatra, Ashwini Rath, (IEEEXPLORE):Decision points for adoption Cloud Computing in Small, Medium Enterprises (SMEs) (*ICITST-2012*) Available at: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6470904
 
-*VPK-Group-Sustainability-Report-2022* (*June,22, 2022*). Available at: https://www.vpkgroup.com/-/media/Files/reports/VPK-Group-Sustainability-Report-2022.pdf
+*VPK-Group-Sustainability-Report-2022*: (*June,22, 2022*). Available at: https://www.vpkgroup.com/-/media/Files/reports/VPK-Group-Sustainability-Report-2022.pdf
 
 Yvonne Harris, (Powell-Software): Why is Sharepoint Online better than On-Premise ? (*August 23, 2022*). Available at: https://powell-software.com/resources/blog/sharepoint-online-vs-on-premise/
+
+`Code`
+<!--
+<table>
+  <tr>
+    <th>Data</th>
+    <th>Data</th>
+    <th>Data</th>
+  </tr>
+  <tr>
+    <td>Data</td>
+    <td>Data</td>
+    <td>Data</td>
+  </tr>
+</table>
+-->
+Available at: https://www.w3schools.com/html/html_tables.asp
