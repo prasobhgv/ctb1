@@ -111,10 +111,9 @@ VPK IT infrastucture runs on a hybrid model. They have their IT environment cons
 As the first step to the cloud environment, they decided to purchase Azure Premium subscription along with Microsoft 365. This helped them to architect plans to migrate the required application/service clusters to the Azure cloud. The Office 365 subscription replaced their existing Exchange infrastructure and it also helped to get newer and advanced versions of the Microsoft Office products with licenses and access to other services. However, there are many other structures which can still be considered to be migrated to cloud. Some of the key areas are described below:
 
 **The SharePoint Service:** The collaboration system that uses workflow application is hosted on an on-premise server with limited storage capacity and computing power. The Microsoft support for Sharepoint Server 2013, which serves the purpose for VPK,  is ending soon as per the information below.
+
+"Microsoft is ending support for certain SharePoint On-Premise versions, including SharePoint 2013. Users with an existing on-premises SharePoint 2013 intranet should make plans to migrate over to SharePoint Online before the end of life (EOL) date of April 11, 2023. By 2026, SharePoint 2019 and 2019 will also be obsolete" </p>(* Yvonne, 2022 *)
 <p align="justify">
-
-"Microsoft is ending support for certain SharePoint On-Premise versions, including SharePoint 2013. Users with an existing on-premises SharePoint 2013 intranet should make plans to migrate over to SharePoint Online before the end of life (EOL) date of April 11, 2023. By 2026, SharePoint 2019 and 2019 will also be obsolete" (* Yvonne, 2022 *)
-
 **The Order Processing software system and it's Database:**
 The applications used for processing the orders are hosted on-premise on Windows 2012 server platform with low compute power, which absolutely slows down the accessibility and the orders gets delayed.
 </p>
@@ -156,10 +155,6 @@ Yvonne Harris, (Powell-Software): Why is Sharepoint Online better than On-Premis
 https://medium.com/@jagathsisira/on-premise-cloud-or-hybrid-5708f5e1fd1a
 
 https://www.salesforce.com/eu/blog/2022/03/cloud-computing-for-small-business.html
-
-
- https://www.zippia.com/advice/cloud-adoption-statistics/
-</p>
 
 
 
