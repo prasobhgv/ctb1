@@ -35,7 +35,7 @@ of businesses despite its potential to reduce the computing cost, accelerate the
 than those that relied on physical datastores and legacy infrastructure. Cloud computing provided these teams with the tools they needed to keep operating in the face of lockdown measures, and in many cases, it helped them increase productivity. Amazon is the market leader in cloud computing. Overall, the company’s service, Amazon Web Services, has a 32% market share over the competition. The other top four include Azure(20%), Google Cloud(9%), and Alibaba(6%).
 </p>
 
-<img width="900" height="500" align="middle" alt="CLOUD1" src="https://bnz05pap001files.storage.live.com/y4mgyT_wFeu-Yu6jX8EQBs0PJaWLNnBtM9txU361Gwpq35UsTrRxlFu9tauKvvWRb6k6DbmuhQw2i9wOa7FOuzNgl7QzBqG_hOA2pVapu6CTwrVm9KvdspAhb3Xx5arLUcQ1Jg73srtUFLhC-2pTMd_8L6AZqqzoIGnqk48nrCTFdPbDsfSvXO8qvZxB5Mx2_umGlT00E_pVR-0F-srgs5QFLkgvY0_BAmvdJuMYSBgL1E?encodeFailures=1&width=776&height=520" >
+<img width="900" height="500" alt="CLOUD1" src="" >
 
 <p align="justify">
 
@@ -107,7 +107,7 @@ VPK Group is a leading packaging group that was established in Belgium in 1935. 
 VPK IT infrastucture runs on a hybrid model. They have their IT environment constructed around Windows based operating systems and the  user and resource management is controlled through Active Directory domain services. The enterprise application servers and the exchange servers are hosted on-premises. The Datacenter they rented out could not withstand anymore resource/resource upgrade requests. This led, the firm to think of adopting a cloud solution to their current problems
 </p>
 
-<img width="900" height="500" align="middle" alt="CLOUD1" src="https://onedrive.live.com/?cid=C071AF7A8E77E7B3&id=C071AF7A8E77E7B3%215040&parId=C071AF7A8E77E7B3%214852&o=OneUp>
+<img width="900" height="500" align="middle" alt="CLOUD1" src="https://bnz05pap001files.storage.live.com/y4mt0w96aNiL-Msa6XMTpbLFc8U4BNUZl9HPk3VxR6rTD9IxBWXf11yPs8z6_M8UUh_Aop7jqCOlitnVBdZp0-Vs49x-ZKwmoyfCJsuFM-Nmgfgk4R7t-uUt6_UqAHvaciBNAstPzjXLh1nMbsUUb9qP2EYZxSir3-00VDtlQXYTkhoio6vqkjp6oDQecBaik5OtAZhYzcEmFRfeRWn79m-6_WFKTLcVwI_0mNSwHuqOpw?encodeFailures=1&width=1024&height=527>
 <p align="justify">
 
 As the first step to the cloud environment, they decided to purchase Azure Premium subscription and opt for Microsoft 365, which is a  cloud based email solution. This helped them to architect plans to migrate the required application/service clusters to the Azure cloud. The Office 365 subscription replaced their existing Exchange infrastructure and it also helped to get newer and advanced versions of the Microsoft Office products with licenses and access to other services. However, there are many other structures which can still be considered to be migrated to cloud. Some of the key areas are described below:
