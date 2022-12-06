@@ -154,3 +154,5 @@ Yvonne Harris, (Powell-Software): Why is Sharepoint Online better than On-Premis
 <img width="350" height="450" alt="Table" src="https://bnz05pap001files.storage.live.com/y4mAYJEj5FATuO5eI3qRCW5QWFT1YsqdkbPON553V_njKFhlZPLMpjD5uzZzC5J1OBI8SOUR1KmX_n8X2HghSVrx5lrg_xbKSw7f2zeC78JSwv4ytXxbMG42uHGV0hx8P6vZk6KJY2MB5y0PiqiciYFMv6gDIuofIhMPziMCZjifGs0kLz0MS7UrpYHPX1hVljVfFi6LDrThuvolKjxeGs9Tmr5e7AMvv8rljYkDrjyxjQ?encodeFailures=1&width=435&height=483">
 
 Available at: https://www.w3schools.com/html/html_tables.asp
+
+Most html codes used in this document are inspired from https://www.w3schools.com/
